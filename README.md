@@ -33,7 +33,7 @@ Open Termux and type the commands
 
 - pkg install wget
 
-- wget -O install-nethunter-termux https://offs.ec/2MceZW
+- wget -O install-nethunter-termux https://github.com/Zip-Soft/Kali-Linux-NetHunter/blob/master/Kali%20Linux%20NetHunter
 
 - chmod +x install-nethunter-termux
 
